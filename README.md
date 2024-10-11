@@ -1,4 +1,4 @@
-- 🔭 Currently working on [Galileo.ai](galileo.ai)
+- 🔭 Currently working on [galileo.ai](https://galileo.ai/)
 
 <!--
 **conorbronsdon/conorbronsdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
