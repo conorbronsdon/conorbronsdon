@@ -4,6 +4,12 @@ Most of the time you'll find me organizing and writing, but sometimes you'll fin
 
 - 🔭 Currently working on [galileo.ai](https://galileo.ai/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
+-  :microphone: Former [Dev Interrupted](https://devinterrupted.substack.com/) Host
+- ⚡ Fun fact: Avid Twilight Imperium player
+
+## About me
+My [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) is typically most up to date or check out [my website](https://conorbronsdon.com/) and occassional [newsletter](https://conorbronsdon.substack.com/).
+
 
 ## How'd you start coding?
 My first time in a command line was part of a 2007 era high-school project refurbishing PCs for computer labs throughout Latin America, which rapidly involved into making websites for old Runescape clans. 
