@@ -5,7 +5,7 @@ Most of the time you'll find me organizing and writing, but sometimes you'll fin
 - 🔭 Currently working on [galileo.ai](https://galileo.ai/)
 - 👯 I’m looking to collaborate on articles + podcasts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
--  :microphone: Former [Dev Interrupted](https://devinterrupted.substack.com/) Host
+-  :microphone: Current [Chain of Thought](https://pod.link/1776879655) Host, Former [Dev Interrupted](https://devinterrupted.substack.com/) Host
 - ⚡ Fun fact: Avid Twilight Imperium player
 
 ## About me
