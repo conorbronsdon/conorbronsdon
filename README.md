@@ -1,6 +1,6 @@
 ## Hey I'm Conor 👋
 
-Most of the time you'll find me organizing and writing, but sometimes you'll find me here doing (bad) self-taught development. I often build with Claude Code these days. 
+Most of the time you'll find me organizing and writing, but sometimes you'll find me here doing (bad) self-taught development. I often build with Claude Code these days, and I'm about to start experimenting with Google's 'new' Antigravity IDE. 
 
 - 👯 I’m looking to collaborate on articles + podcasts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
