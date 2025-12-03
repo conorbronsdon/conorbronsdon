@@ -2,6 +2,7 @@
 
 Most of the time you'll find me organizing and writing, but sometimes you'll find me here doing (bad) self-taught development. I often build with Claude Code these days, and I'm about to start experimenting with Google's 'new' Antigravity IDE. 
 
+- Currently leading technical ecosystem @ [Modular](https://www.modular.com/) + building out [our open source platform](https://github.com/modular/modular) (Mojo programming language + MAX GenAI serving framework)
 - 👯 I’m looking to collaborate on articles + podcasts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
 -  :microphone: Creator and host of the [Chain of Thought](https://pod.link/1776879655) Podcast, Former [Dev Interrupted](https://devinterrupted.substack.com/) Builder + Host
