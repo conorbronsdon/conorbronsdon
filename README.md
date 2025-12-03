@@ -12,6 +12,8 @@ Most of the time you'll find me organizing and writing, but sometimes you'll fin
 ## About me
 My [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) is typically most up to date, or check out [my website](https://conorbronsdon.com/) and occasional [newsletter](https://conorbronsdon.substack.com/). I also do [angel investing](https://conorbronsdon.com/angel-investing) in AI, dev tools, and the creator economy. 
 
+### What I'm building
+[![Modular](https://github-readme-stats.vercel.app/api/pin/?username=modular&repo=modular)](https://github.com/modular/modular)
 
 ## How'd you start coding?
 My first time in a command line was part of a 2007 era high-school project refurbishing PCs for computer labs throughout Latin America, which rapidly involved into making websites for old Runescape clans. 
