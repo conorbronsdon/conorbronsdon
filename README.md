@@ -5,7 +5,7 @@ Most of the time you'll find me organizing and writing, but sometimes you'll fin
 - Currently leading technical ecosystem @ [Modular](https://www.modular.com/) + building out [our open source platform](https://github.com/modular/modular) (Mojo programming language + MAX GenAI serving framework)
 - 👯 I’m looking to collaborate on articles + podcasts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
--  :microphone: Creator and host of the [Chain of Thought](https://pod.link/1776879655) Podcast, Former [Dev Interrupted](https://devinterrupted.substack.com/) Builder + Host
+-  :microphone: Creator and host of the [Chain of Thought](https://chainofthought.show) Podcast, Former [Dev Interrupted](https://devinterrupted.substack.com/) Builder + Host
 - 🔭 Former team member at [galileo.ai](https://galileo.ai/)(AI evaluations + observability) & [LinearB](https://linearb.io/)(Engineering productivity, devex + AI code reviews)
 - ⚡ Fun fact: Avid Twilight Imperium player
 - - 💬 Ask me about AI infrastructure
