@@ -8,7 +8,7 @@ Most of the time you'll find me organizing and writing, but sometimes you'll fin
 -  :microphone: Creator and host of the [Chain of Thought](https://chainofthought.show) Podcast, Former [Dev Interrupted](https://devinterrupted.substack.com/) Builder + Host
 - 🔭 Former team member at [galileo.ai](https://galileo.ai/)(AI evaluations + observability) & [LinearB](https://linearb.io/)(Engineering productivity, devex + AI code reviews)
 - ⚡ Fun fact: Avid Twilight Imperium player
-- - 💬 Ask me about AI infrastructure
+- 💬 Ask me about AI infrastructure
 
 ## About me
 My [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) is typically most up to date, or check out [my website](https://conorbronsdon.com/) and occasional [newsletter](https://conorbronsdon.substack.com/). I also do [angel investing](https://conorbronsdon.com/angel-investing) in AI, dev tools, and the creator economy. 
