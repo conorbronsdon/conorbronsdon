@@ -14,7 +14,7 @@ I host [Chain of Thought](https://chainofthought.show), a podcast about AI infra
 
 | | Repo | What it does |
 |---|------|-------------|
-| 🔥 | [Github Stars!][modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (contributor) |
+| 🔥 | ![GitHub Repo stars][modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (contributor) |
 | ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Claude Code skill that audits and rewrites content to remove AI writing patterns |
 | 📰 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack, read posts and manage drafts |
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools |
