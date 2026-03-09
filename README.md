@@ -2,6 +2,7 @@
 
 <p align="center">
 Host of <a href="https://chainofthought.show">Chain of Thought</a> · Head of Technical Ecosystem at <a href="https://www.modular.com/">Modular</a> · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
+<a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
 </p>
 
 ---
@@ -22,7 +23,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 - [2024 Is the Year GenAI Code Hits Adolescence](https://devinterrupted.substack.com/p/2024-is-the-year-genai-code-hits)
 - [The Problem with Perfectionism](https://newsletter.chainofthought.show/p/the-problem-with-perfectionism)
 
-### Projects
+### Open projects
 
 | | Repo | What it does | |
 |---|------|-------------|---|
@@ -62,4 +63,5 @@ My first time in a command line was part of a 2007 era high-school project refur
 <a href="https://www.linkedin.com/in/conorbronsdon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="conorbronsdon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ChainOfThoughtAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChainOfThoughtAI" height="30" width="40" /></a>
 <a href="https://newsletter.chainofthought.show/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="newsletter" height="30" width="40" /></a>
+<a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
 </p>
