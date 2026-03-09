@@ -1,33 +1,54 @@
 ## Hey I'm Conor 👋
 
-Most of the time you'll find me organizing and writing, but sometimes you'll find me here doing (bad) self-taught development. I often build with Claude Code these days
+I lead technical ecosystem at [Modular](https://www.modular.com/), where we're building the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that I built developer ecosystems at [Galileo](https://galileo.ai/) and [LinearB](https://linearb.io/), and spent a few years doing enterprise consulting at Microsoft.
 
-- Currently leading technical ecosystem @ [Modular](https://www.modular.com/) + building out [our open source platform](https://github.com/modular/modular) (Mojo programming language + MAX GenAI serving framework)
-- 👯 I’m looking to collaborate on articles + podcasts
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
--  :microphone: Creator and host of the [Chain of Thought](https://chainofthought.show) Podcast, Former [Dev Interrupted](https://devinterrupted.substack.com/) Builder + Host
-- 🔭 Former team member at [galileo.ai](https://galileo.ai/)(AI evaluations + observability) & [LinearB](https://linearb.io/)(Engineering productivity, devex + AI code reviews)
-- ⚡ Fun fact: Avid Twilight Imperium player
-- 💬 Ask me about AI infrastructure
+I host [Chain of Thought](https://chainofthought.show), a podcast about AI infrastructure and the people building it. 50+ episodes, with guests from Google DeepMind, NVIDIA, AMD, Databricks, IBM, and others. I also write a [newsletter](https://newsletter.chainofthought.show/) on Substack.
 
-## About me
-My [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) is typically most up to date, or check out [my website](https://conorbronsdon.com/) and occasional [newsletter](https://conorbronsdon.substack.com/). I also do [angel investing](https://conorbronsdon.com/angel-investing) in AI, dev tools, and the creator economy. 
+- 🔭 Building developer ecosystem for [Mojo](https://github.com/modular/modular) + [MAX](https://www.modular.com/max) at Modular
+- 🎙️ 50+ episodes of [Chain of Thought](https://chainofthought.show) shipped
+- 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
+- 🎲 Avid Twilight Imperium and Age of Empires II player
+- 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
 
-### What I'm building
-[![GitHub stars](https://img.shields.io/github/stars/modular/modular?style=social)](https://github.com/modular/modular) The open source Mojo🔥 language + MAX GenAI Serving Framework 
+### Projects
 
-## How'd you start coding?
-My first time in a command line was part of a 2007 era high-school project refurbishing PCs for computer labs throughout Latin America, which rapidly involved into making websites for old Runescape clans. 
+| | Repo | What it does |
+|---|------|-------------|
+| 🔥 | [modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (contributor) |
+| ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Claude Code skill that audits and rewrites content to remove AI writing patterns |
+| 📰 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack, read posts and manage drafts |
+| 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools |
+| 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code |
+| 🏰 | [aoe2-troop-calculator](https://github.com/conorbronsdon/aoe2-troop-calculator) | Age of Empires II army composition calculator |
 
+### Angel portfolio
 
-<!--
+I write $1-10K checks into early-stage companies, mostly AI infrastructure and dev tools. [More on my thesis here.](https://conorbronsdon.com/angel-investing)
 
-Here are some ideas to get you started:
+| Company | What they do |
+|---------|-------------|
+| [Zaapi](https://www.zaapi.com) | AI customer service for e-commerce |
+| [DreamForge](https://www.dreamforge.ai) | AI game creation platform |
+| [Scam.ai](https://www.scam.ai) | Deepfake detection |
+| [Swytchcode](https://www.swytchcode.com) | API security for fintech |
+| [Shield](https://www.getshield.xyz) | B2B stablecoin payments |
+| [Iris](https://www.textiris.com) | Consumer AI assistant (YC F25) |
+| [Haply Robotics](https://www.haply.co) | Industrial robotics and haptics |
+| [Trilobio](https://www.trilo.bio) | Lab automation robotics |
+| [Stride Soles](https://www.stridesoles.com) | DTC custom orthotics via AI scanning |
+| [Rad Intel](https://www.radintel.ai) | AI marketing platform |
+| [Substack](https://substack.com) | Publishing platform |
+| [YC Orange Fund F25](https://www.ycombinator.com/) | Diversified YC batch fund |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Recent writing and episodes
 
-- 🤔 I’m looking for help with ...
+- [What Atlassian's $1B DX Acquisition Means for the Developer Productivity Market](https://newsletter.chainofthought.show/p/what-dxs-1b-acquisition-means-for)
+- [The Rise of Tireless Digital Employees](https://newsletter.chainofthought.show/p/the-rise-of-tireless-digital-employees)
+- [2024 Is the Year GenAI Code Hits Adolescence](https://devinterrupted.substack.com/p/2024-is-the-year-genai-code-hits)
+- [The Problem with Perfectionism](https://newsletter.chainofthought.show/p/the-problem-with-perfectionism)
+- [Chain of Thought on YouTube](https://www.youtube.com/@ChainOfThoughtPodcast)
+- [Newsletter on Substack](https://newsletter.chainofthought.show/)
 
--->
-<!-- TO DO: add more details about me later -->
+### How'd you start coding?
+
+My first time in a command line was part of a 2007 era high-school project refurbishing PCs for computer labs throughout Latin America, which rapidly evolved into making websites for old Runescape clans.
