@@ -59,9 +59,9 @@ My first time in a command line was part of a 2007 era high-school project refur
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://x.com/conorbronsdon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="conorbronsdon" height="30" width="40" /></a>
+<a href="https://x.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="conorbronsdon" height="28" width="28" /></a>
 <a href="https://www.linkedin.com/in/conorbronsdon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="conorbronsdon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ChainOfThoughtAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChainOfThoughtAI" height="30" width="40" /></a>
-<a href="https://newsletter.chainofthought.show/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="newsletter" height="30" width="40" /></a>
+<a href="https://newsletter.chainofthought.show/" target="blank"><img align="center" src="https://cdn.simpleicons.org/substack/FF6719" alt="newsletter" height="28" width="28" /></a>
 <a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
 </p>
