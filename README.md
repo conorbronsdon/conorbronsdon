@@ -18,6 +18,9 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 
 [Chain of Thought](https://chainofthought.show) is a podcast about AI infrastructure and the people building it. Guests include [Chip Huyen](https://open.spotify.com/episode/7ik0VRr6oYCmXJ3Cw6QgOW?si=x47GNV2ZQ5yLLGRFf4ed_g), [Logan Kilpatrick](https://open.spotify.com/episode/1gsmeCaUfWYFew50183Xwu?si=68sbzN9hRlKjgoa16vEXBQ) of [Google DeepMind](https://newsletter.chainofthought.show/p/chain-of-thought-the-future-of-ai), plus leaders and founders from [NVIDIA](https://open.spotify.com/episode/7ik0VRr6oYCmXJ3Cw6QgOW?si=x47GNV2ZQ5yLLGRFf4ed_g), [AMD](https://podcasts.apple.com/us/podcast/amds-challenge-to-nvidia-the-open-ecosystem-bet-anush/id1776879655?i=1000713415927), [Databricks](https://open.spotify.com/episode/2tze6azz5xH9J56xjB71Ad?si=NTGI-Tq_Q5mvCKhlR1sQDg), [Poolside](https://open.spotify.com/episode/7muPMLlojz3sH8yUPTCuSx?si=vH1UzAYgSlGP7nmsuRB7JA), [Liquid AI](https://open.spotify.com/episode/65L1cpC76bXLuxsQijF0TY?si=vxayGwPYTR-wI9J5OVeAIg), [Fireworks](https://open.spotify.com/episode/6oXxA5WTffIF6HkqvcLChc?si=igo3O1sTRQmrjTZG7cD6bA), [Vercel](https://open.spotify.com/episode/3XCbiQj4EtTT6pZBSrwL5N?si=K5ThcjN5SMe7ZKOzTqSTIA), and many others.
 
+#### Newsletter: 
+
+- [Block Cut 4,000 Jobs and Blamed AI. The Truth is More Complicated.](https://newsletter.chainofthought.show/p/block-cut-4000-jobs-and-blamed-ai)
 - [What Atlassian's $1B DX Acquisition Means for the Developer Productivity Market](https://newsletter.chainofthought.show/p/what-dxs-1b-acquisition-means-for)
 - [The Rise of Tireless Digital Employees](https://newsletter.chainofthought.show/p/the-rise-of-tireless-digital-employees)
 - [2024 Is the Year GenAI Code Hits Adolescence](https://devinterrupted.substack.com/p/2024-is-the-year-genai-code-hits)
