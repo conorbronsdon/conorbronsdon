@@ -21,6 +21,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 #### Newsletter: 
 
 - [Block Cut 4,000 Jobs and Blamed AI. The Truth is More Complicated.](https://newsletter.chainofthought.show/p/block-cut-4000-jobs-and-blamed-ai)
+- [He Built an AI Coworker to Run 90% of his Day](https://newsletter.chainofthought.show/p/he-named-his-ai-coworker-marvin-it)
 - [What Atlassian's $1B DX Acquisition Means for the Developer Productivity Market](https://newsletter.chainofthought.show/p/what-dxs-1b-acquisition-means-for)
 - [The Rise of Tireless Digital Employees](https://newsletter.chainofthought.show/p/the-rise-of-tireless-digital-employees)
 - [2024 Is the Year GenAI Code Hits Adolescence](https://devinterrupted.substack.com/p/2024-is-the-year-genai-code-hits)
