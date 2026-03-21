@@ -38,6 +38,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)](https://github.com/conorbronsdon/gws-mcp-server) |
 | 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
 | 🏰 | [aoe2-troop-calculator](https://github.com/conorbronsdon/aoe2-troop-calculator) | Age of Empires II army composition calculator | [![Stars](https://img.shields.io/github/stars/conorbronsdon/aoe2-troop-calculator?style=social)](https://github.com/conorbronsdon/aoe2-troop-calculator) |
+| 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweeight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
 
 ### Angel portfolio
 
