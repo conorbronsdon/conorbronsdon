@@ -4,7 +4,6 @@
 Host of <a href="https://chainofthought.show">Chain of Thought</a> · Head of Technical Ecosystem at <a href="https://www.modular.com/">Modular</a> · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
 <br/>
 <a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
-<a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
 </p>
 
 ---
@@ -13,7 +12,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 
 - 🎙️ 50+ episodes of [Chain of Thought](https://chainofthought.show) shipped
 - 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
-- 🎲 Avid Twilight Imperium and Age of Empires II player, former chess team nerd
+- 🎲 Avid Twilight Imperium and [Age of Empires II](https://github.com/conorbronsdon/aoe2-troop-calculator) player, former chess team nerd
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
 
 ### Chain of Thought
@@ -42,7 +41,6 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 | 📰 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack, read posts and manage drafts | [![Stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=social)](https://github.com/conorbronsdon/substack-mcp) |
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)](https://github.com/conorbronsdon/gws-mcp-server) |
 | 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
-| 🏰 | [aoe2-troop-calculator](https://github.com/conorbronsdon/aoe2-troop-calculator) | Age of Empires II army composition calculator | [![Stars](https://img.shields.io/github/stars/conorbronsdon/aoe2-troop-calculator?style=social)](https://github.com/conorbronsdon/aoe2-troop-calculator) |
 | 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
 
 ### Angel portfolio
