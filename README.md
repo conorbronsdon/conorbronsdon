@@ -2,6 +2,8 @@
 
 <p align="center">
 Host of <a href="https://chainofthought.show">Chain of Thought</a> · Head of Technical Ecosystem at <a href="https://www.modular.com/">Modular</a> · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
+<br/>
+<a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
 <a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
 </p>
 
