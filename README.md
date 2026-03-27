@@ -44,6 +44,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)](https://github.com/conorbronsdon/gws-mcp-server) |
 | 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
 | 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
+| 🔄 | [wrekenfile-converter](https://github.com/conorbronsdon/wrekenfile-converter) | File format converter for Wreken spec ([Swytchcode](https://www.swytchcode.com)) | [![Stars](https://img.shields.io/github/stars/conorbronsdon/wrekenfile-converter?style=social)](https://github.com/conorbronsdon/wrekenfile-converter) |
 
 ### Angel portfolio
 
