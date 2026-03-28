@@ -34,7 +34,7 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 
 | | Repo | What it does | |
 |---|------|-------------|---|
-| 🔥 | [modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (contributor) | [![Stars](https://img.shields.io/github/stars/modular/modular?style=social)](https://github.com/modular/modular) |
+| 🔥 | [modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (maintainer + ecosystem lead) | [![Stars](https://img.shields.io/github/stars/modular/modular?style=social)](https://github.com/modular/modular) |
 | 📊 | [agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) | Open framework for benchmarking LLM-based enterprise agents | [![Stars](https://img.shields.io/github/stars/rungalileo/agent-leaderboard?style=social)](https://github.com/rungalileo/agent-leaderboard) |
 | ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Claude Code & OpenClaw skill that audits and rewrites content to remove AI writing patterns | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
 | 🛠️ | [claude-code-skills](https://github.com/conorbronsdon/claude-code-skills) | Session management, reconciliation, recovery, and skill scaffolding for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-code-skills?style=social)](https://github.com/conorbronsdon/claude-code-skills) |
