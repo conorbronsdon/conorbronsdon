@@ -58,7 +58,7 @@ I write $1-10K checks into early-stage companies, mostly AI infrastructure and d
 | [DreamForge](https://www.dreamforge.ai) | AI game creation platform |
 | [Scam.ai](https://www.scam.ai) | Deepfake detection |
 | [Swytchcode](https://www.swytchcode.com) | execution authority for API integrations |
-| [Shield](https://www.getshield.xyz) | Secure & swift online banking for wholesalers via B2B stablecoin payments |
+| [Shield](https://www.getshield.xyz) | B2B stablecoin payments & online banking |
 | [Haply Robotics](https://www.haply.co) | Industrial robotics and haptics |
 | [Trilobio](https://www.trilo.bio) | Lab automation robotics |
 | [Stride Soles](https://www.stridesoles.com) | DTC custom orthotics via AI scanning |
