@@ -57,7 +57,7 @@ I write $1-10K checks into early-stage companies, mostly AI infrastructure and d
 | [Iris](https://www.textiris.com) | Consumer AI assistant (YC F25) |
 | [DreamForge](https://www.dreamforge.ai) | AI game creation platform |
 | [Scam.ai](https://www.scam.ai) | Deepfake detection (Skydeck Batch 20) |
-| [Swytchcode](https://www.swytchcode.com) | execution authority for API integrations |
+| [Swytchcode](https://www.swytchcode.com) | Execution authority for API integrations |
 | [Shield](https://www.getshield.xyz) | B2B stablecoin payments & online banking |
 | [Haply Robotics](https://www.haply.co) | Industrial robotics and haptics |
 | [Trilobio](https://www.trilo.bio) | Lab automation robotics |
