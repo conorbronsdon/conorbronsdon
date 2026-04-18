@@ -36,8 +36,6 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 
 ### Open projects
 
-*These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
-
 | | Repo | What it does | |
 |---|------|-------------|---|
 | ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter. 36 pattern categories, 109-word replacement table, two-pass rewrite. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
@@ -51,6 +49,8 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 | 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
 | 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
 | 🔄 | [wrekenfile-converter](https://github.com/conorbronsdon/wrekenfile-converter) | File format converter for Wreken spec ([Swytchcode](https://www.swytchcode.com)) | [![Stars](https://img.shields.io/github/stars/conorbronsdon/wrekenfile-converter?style=social)](https://github.com/conorbronsdon/wrekenfile-converter) |
+
+*These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
 
 ### Angel portfolio
 
