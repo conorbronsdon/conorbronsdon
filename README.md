@@ -6,9 +6,13 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · Technical 
 <a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
 </p>
 
+<p align="center">
+<em>The views expressed on this account are my own and have not been reviewed or approved by Modular.</em>
+</p>
+
 ---
 
-By day, leading technical ecosystem at [Modular](https://www.modular.com/), where we're building the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
+By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
 - 🎙️ 50+ episodes of [Chain of Thought](https://chainofthought.show) shipped
 - 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
@@ -32,11 +36,12 @@ By day, leading technical ecosystem at [Modular](https://www.modular.com/), wher
 
 ### Open projects
 
+*These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
+
 | | Repo | What it does | |
 |---|------|-------------|---|
 | ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter. 36 pattern categories, 109-word replacement table, two-pass rewrite. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
 | 🌐 | [avoid-ai-writing-app](https://github.com/conorbronsdon/avoid-ai-writing-app) | Web app for [$avoid](https://dexscreener.com/solana/4b5mprekzapcwybrsbbaiewtk4amck62rpcznjcxz69m). Burn tokens or pay with a card to audit text. [avoidaiwriting.com](https://www.avoidaiwriting.com) | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing-app?style=social)](https://github.com/conorbronsdon/avoid-ai-writing-app) |
-| 🔥 | [modular/modular](https://github.com/modular/modular) | Mojo language + MAX inference platform (maintainer + ecosystem lead) | [![Stars](https://img.shields.io/github/stars/modular/modular?style=social)](https://github.com/modular/modular) |
 | 📊 | [agent-leaderboard](https://github.com/rungalileo/agent-leaderboard) | Open framework for benchmarking LLM-based enterprise agents | [![Stars](https://img.shields.io/github/stars/rungalileo/agent-leaderboard?style=social)](https://github.com/rungalileo/agent-leaderboard) |
 | 🛠️ | [claude-code-skills](https://github.com/conorbronsdon/claude-code-skills) | Session management, reconciliation, recovery, and skill scaffolding for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-code-skills?style=social)](https://github.com/conorbronsdon/claude-code-skills) |
 | 🎯 | [ai-tools-for-creators](https://github.com/conorbronsdon/ai-tools-for-creators) | Curated AI skills, MCP servers, and workflow tools for creators | [![Stars](https://img.shields.io/github/stars/conorbronsdon/ai-tools-for-creators?style=social&cacheSeconds=3600)](https://github.com/conorbronsdon/ai-tools-for-creators) |
