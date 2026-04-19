@@ -50,6 +50,7 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 | 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
 | 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
 | 🔄 | [wrekenfile-converter](https://github.com/conorbronsdon/wrekenfile-converter) | File format converter for Wreken spec ([Swytchcode](https://www.swytchcode.com)) | [![Stars](https://img.shields.io/github/stars/conorbronsdon/wrekenfile-converter?style=social)](https://github.com/conorbronsdon/wrekenfile-converter) |
+| 🎶 | [soundcloud-track-finder](https://github.com/conorbronsdon/soundcloud-track-finder) | Paste a tracklist, get SoundCloud search links for every track | [![Stars](https://img.shields.io/github/stars/conorbronsdon/soundcloud-track-finder?style=social)](https://github.com/conorbronsdon/soundcloud-track-finder) |
 
 *These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
 
