@@ -14,7 +14,7 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · Technical 
 
 By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
-- 🎙️ 50+ episodes of [Chain of Thought](https://chainofthought.show) shipped
+- 🎙️ 55+ episodes of [Chain of Thought](https://chainofthought.show) shipped
 - 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
 - 🎲 Avid Twilight Imperium and [Age of Empires II](https://github.com/conorbronsdon/aoe2-troop-calculator) player, former chess team nerd
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
@@ -57,7 +57,7 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 
 I write $1-10K checks into early-stage companies, mostly AI infrastructure and dev tools. [More on my thesis here.](https://conorbronsdon.com/angel-investing)
 
-| Feature Companies | What they do |
+| Featured Companies | What they do |
 |---------|-------------|
 | [Substack](https://substack.com) | The world's publishing platform |
 | [Zaapi](https://www.zaapi.com) | AI customer service for e-commerce |
