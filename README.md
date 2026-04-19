@@ -76,7 +76,14 @@ I write $1-10K checks into early-stage companies, mostly AI infrastructure and d
 
 My first time in a command line was part of a 2007 era high-school project refurbishing PCs for computer labs throughout Latin America, which rapidly evolved into making websites for old Runescape clans.
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://x.com/conorbronsdon" target="blank"><img src="https://cdn.simpleicons.org/x/white" alt="conorbronsdon" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/conorbronsdon/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="conorbronsdon" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@ChainOfThoughtAI" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ChainOfThoughtAI" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://newsletter.chainofthought.show/" target="blank"><img src="https://cdn.simpleicons.org/substack/FF6719" alt="newsletter" height="28" width="28" /></a>&nbsp;&nbsp;<a href="https://buymeacoffee.com/conorbronsdon" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="30" /></a>
-</p>
+<div align="center">
+
+### Connect with me
+
+[![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=for-the-badge&logo=x)](https://x.com/conorbronsdon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conorbronsdon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conorbronsdon/)
+[![YouTube](https://img.shields.io/badge/YouTube-ChainOfThoughtAI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ChainOfThoughtAI)
+[![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://newsletter.chainofthought.show/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-conorbronsdon-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/conorbronsdon)
+
+</div>
