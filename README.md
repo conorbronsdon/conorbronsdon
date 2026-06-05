@@ -14,7 +14,7 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · Technical 
 
 By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
-- 🎙️ 55+ episodes of [Chain of Thought](https://chainofthought.show) shipped
+- 🎙️ 60+ episodes of [Chain of Thought](https://chainofthought.show) shipped
 - 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
 - 🎲 Avid Twilight Imperium and [Age of Empires II](https://github.com/conorbronsdon/aoe2-troop-calculator) player, former chess team nerd
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
@@ -38,8 +38,8 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 
 | | Repo | What it does | |
 |---|------|-------------|---|
-| ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter. 36 pattern categories, 109-word replacement table, two-pass rewrite. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
-| 🧩 | [claude-context-starter](https://github.com/conorbronsdon/claude-context-starter) | Personal context repo template for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-starter?style=social)](https://github.com/conorbronsdon/claude-context-starter) |
+| ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 47 pattern categories, 109-word replacement table, two-pass rewrite. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
+| 🧩 | [claude-context-os](https://github.com/conorbronsdon/claude-context-os) | An operating system for your Claude context — versioned files, self-curating memory, /start→/end loop | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-os?style=social)](https://github.com/conorbronsdon/claude-context-os) |
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | MCP server exposing Google Workspace CLI as Model Context Protocol tools | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)](https://github.com/conorbronsdon/gws-mcp-server) |
 | 🛠️ | [claude-code-skills](https://github.com/conorbronsdon/claude-code-skills) | Session management, reconciliation, recovery, and skill scaffolding for Claude Code | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-code-skills?style=social)](https://github.com/conorbronsdon/claude-code-skills) |
 | 🎶 | [track-finder](https://github.com/conorbronsdon/track-finder) | Paste or import a tracklist, get SoundCloud/Spotify/YouTube/Apple Music (your choice!) search links for every track | [![Stars](https://img.shields.io/github/stars/conorbronsdon/track-finder?style=social)](https://github.com/conorbronsdon/track-finder) |
