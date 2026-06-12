@@ -50,6 +50,7 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 | 🎙 | [podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) | MCP server for the Podcast Index API: use it to search podcasts, track appearances, monitor trending shows, check feed health, etc. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/podcastindex-mcp?style=social)](https://github.com/conorbronsdon/podcastindex-mcp) |
 | 📈 | [op3-mcp](https://github.com/conorbronsdon/op3-mcp) | MCP server for OP3 podcast analytics: downloads, geography, and listening app share. Read-only. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/op3-mcp?style=social)](https://github.com/conorbronsdon/op3-mcp) |
 | 📊 | [cot-bench](https://github.com/conorbronsdon/cot-bench) | Lightweight open agent evals framework | [![Stars](https://img.shields.io/github/stars/conorbronsdon/cot-bench?style=social)](https://github.com/conorbronsdon/cot-bench) |
+| 📋 | [podcast-benchmark](https://github.com/conorbronsdon/podcast-benchmark) | Benchmark any podcast against a peer set using only public data — catalog, cadence, transcripts, feed hygiene. No download estimates, no scraping. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/podcast-benchmark?style=social)](https://github.com/conorbronsdon/podcast-benchmark) |
 
 *These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
 
