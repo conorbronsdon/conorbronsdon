@@ -34,14 +34,26 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 - [2024 Is the Year GenAI Code Hits Adolescence](https://devinterrupted.substack.com/p/2024-is-the-year-genai-code-hits)
 - [The Problem with Perfectionism](https://newsletter.chainofthought.show/p/the-problem-with-perfectionism)
 
+### 🔥 Mojo libraries
+
+Pure-Mojo libraries that mirror the Python stdlib APIs developers already know, filling ecosystem gaps for the [Mojo](https://github.com/modular/modular) language. No Python dependencies, no FFI unless the job demands it. Each ships with tests anchored to an external ground truth (official spec suites, byte-for-byte Python parity, real-world corpora).
+
+| | Repo | Python parallel | What it does |
+|---|------|-----------------|-------------|
+| 📡 | [mojo-feed](https://github.com/conorbronsdon/mojo-feed) | `feedparser` | RSS/Atom/JSON Feed parser — every syndication format since 1999, 138/138 real-world corpus, 130+ MB/s |
+| 📝 | [mojo-markdown](https://github.com/conorbronsdon/mojo-markdown) | `markdown` | CommonMark parser + HTML renderer — 98.6% spec conformance, 132/132 on emphasis |
+| 📄 | [mojo-html](https://github.com/conorbronsdon/mojo-html) | `readability` | Liberal HTML parser + readability extraction — Mozilla-derived scoring, paywall confidence gate |
+| 🎙 | [mojo-captions](https://github.com/conorbronsdon/mojo-captions) | — | SRT/WebVTT transcript parser — speakers, voice spans, round-trip serialization, clip windows |
+| 🔤 | [mojo-unicodedata](https://github.com/conorbronsdon/mojo-unicodedata) | `unicodedata` | Unicode normalization (NFC/NFD/NFKC/NFKD) + casefold — 20,034/20,034 official conformance |
+| 📐 | [mojo-diff](https://github.com/conorbronsdon/mojo-diff) | `difflib` | Myers text diff + unified_diff — byte-for-byte match with Python's output |
+| 🧩 | [mojo-template](https://github.com/conorbronsdon/mojo-template) | `jinja2` | Standalone jinja-flavored template engine — autoescape, 43/43 jinja2 parity |
+| 📦 | [mojo-tar](https://github.com/conorbronsdon/mojo-tar) | `tarfile` | tar archive reader/writer — ustar/GNU/pax, GNU-tar byte-identical interop |
+| 🗄️ | [mojo-redis](https://github.com/conorbronsdon/mojo-redis) | `redis-py` | RESP2 Redis client — live-server tested, hardened against hostile replies |
+
 ### Open projects
 
 | | Repo | What it does | |
 |---|------|-------------|---|
-| 📡 | [mojo-feed](https://github.com/conorbronsdon/mojo-feed) | RSS, Atom, and JSON Feed parsing in pure Mojo — every syndication format since 1999, strict-mode validation with line/column diagnostics, 130+ MB/s compiled | [![Stars](https://img.shields.io/github/stars/conorbronsdon/mojo-feed?style=social)](https://github.com/conorbronsdon/mojo-feed) |
-| 📝 | [mojo-markdown](https://github.com/conorbronsdon/mojo-markdown) | CommonMark parser and HTML renderer in pure Mojo — 98.6% spec conformance, 132/132 on the emphasis rules where markdown parsers usually die | [![Stars](https://img.shields.io/github/stars/conorbronsdon/mojo-markdown?style=social)](https://github.com/conorbronsdon/mojo-markdown) |
-| 🎙 | [mojo-captions](https://github.com/conorbronsdon/mojo-captions) | SRT and WebVTT transcript/subtitle parser in pure Mojo — speakers, voice spans, round-trip serialization, clip windows | [![Stars](https://img.shields.io/github/stars/conorbronsdon/mojo-captions?style=social)](https://github.com/conorbronsdon/mojo-captions) |
-| 🕸️ | [mojo-html](https://github.com/conorbronsdon/mojo-html) | Liberal HTML parser + readability-style article extraction in pure Mojo — Mozilla-derived scoring, paywall confidence gate | [![Stars](https://img.shields.io/github/stars/conorbronsdon/mojo-html?style=social)](https://github.com/conorbronsdon/mojo-html) |
 | ✍️ | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 49 pattern categories, 109-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing) |
 | 🧩 | [claude-context-os](https://github.com/conorbronsdon/claude-context-os) | An operating system for your Claude context — versioned files, self-curating memory, /start→/end loop | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-os?style=social)](https://github.com/conorbronsdon/claude-context-os) |
 | 📧 | [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | Google Workspace for AI agents: Gmail, Calendar, Drive, Sheets, Docs, and Tasks as 41 curated MCP tools on the official gws CLI | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)](https://github.com/conorbronsdon/gws-mcp-server) |
