@@ -45,6 +45,7 @@ Pure-Mojo libraries that mirror the Python stdlib APIs developers already know, 
 | 📄 | [mojo-html](https://github.com/conorbronsdon/mojo-html) | `readability` | Liberal HTML parser + readability extraction — Mozilla-derived scoring, paywall confidence gate |
 | 🎙 | [mojo-captions](https://github.com/conorbronsdon/mojo-captions) | — | SRT/WebVTT transcript parser — speakers, voice spans, round-trip serialization, clip windows |
 | 🔤 | [mojo-unicodedata](https://github.com/conorbronsdon/mojo-unicodedata) | `unicodedata` | Unicode normalization (NFC/NFD/NFKC/NFKD) + casefold — 20,034/20,034 official conformance |
+| 🔗 | [mojo-url](https://github.com/conorbronsdon/mojo-url) | `urllib.parse` | URL parsing, building, and query-string encoding — 161/161 Python byte-match, full RFC 3986 urljoin conformance |
 | 📐 | [mojo-diff](https://github.com/conorbronsdon/mojo-diff) | `difflib` | Myers text diff + unified_diff — byte-for-byte match with Python's output |
 | 🧩 | [mojo-template](https://github.com/conorbronsdon/mojo-template) | `jinja2` | Standalone jinja-flavored template engine — autoescape, 43/43 jinja2 parity |
 | 📦 | [mojo-tar](https://github.com/conorbronsdon/mojo-tar) | `tarfile` | tar archive reader/writer — ustar/GNU/pax, GNU-tar byte-identical interop |
