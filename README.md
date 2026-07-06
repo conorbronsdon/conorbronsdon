@@ -43,6 +43,7 @@ Pure-Mojo libraries that mirror the Python stdlib APIs developers already know, 
 | 📡 | [mojo-feed](https://github.com/conorbronsdon/mojo-feed) | `feedparser` | RSS/Atom/JSON Feed parser — every syndication format since 1999, 138/138 real-world corpus, 130+ MB/s |
 | 📝 | [mojo-markdown](https://github.com/conorbronsdon/mojo-markdown) | `markdown` | CommonMark parser + HTML renderer — 98.6% spec conformance, 132/132 on emphasis |
 | 📄 | [mojo-html](https://github.com/conorbronsdon/mojo-html) | `readability` | Liberal HTML parser + readability extraction — Mozilla-derived scoring, paywall confidence gate |
+| 🌳 | [mojo-xml](https://github.com/conorbronsdon/mojo-xml) | `xml.etree` | General-purpose XML — ElementTree-shaped DOM, scoped namespaces, 6/6 byte-match vs CPython `xml.etree`, 1,500-iter fuzz |
 | 🎙 | [mojo-captions](https://github.com/conorbronsdon/mojo-captions) | — | SRT/WebVTT transcript parser — speakers, voice spans, round-trip serialization, clip windows |
 | 🔤 | [mojo-unicodedata](https://github.com/conorbronsdon/mojo-unicodedata) | `unicodedata` | Unicode normalization (NFC/NFD/NFKC/NFKD) + casefold — 20,034/20,034 official conformance |
 | 🔗 | [mojo-url](https://github.com/conorbronsdon/mojo-url) | `urllib.parse` | URL parsing, building, and query-string encoding — 161/161 Python byte-match, full RFC 3986 urljoin conformance |
