@@ -36,16 +36,6 @@ By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working
 
 ### 🔥 Mojo libraries
 
-<div align="center">
-
-<a href="https://github.com/conorbronsdon/mojo-ecosystem-map">
-  <img src="docs/ecosystem-map-hero.png" alt="Python-interop coverage map of the Mojo ecosystem: 4 stdlib, 33 healthy, 11 thin, 2 open gaps across 50 rows" width="820">
-</a>
-
-**I maintain a [Python-interop coverage map of the Mojo ecosystem](https://github.com/conorbronsdon/mojo-ecosystem-map): what a developer coming from Python expects the standard library to cover, versus what actually exists in Mojo today.** The libraries below fill the gaps it flags.
-
-</div>
-
 Pure-Mojo libraries that mirror the Python stdlib APIs developers already know, filling ecosystem gaps for the [Mojo](https://github.com/modular/modular) language. No Python dependencies, no FFI unless the job demands it. Each ships with tests anchored to an external ground truth (official spec suites, byte-for-byte Python parity, real-world corpora).
 
 | | Repo | Python parallel | What it does |
