@@ -79,6 +79,8 @@ I write $1-10K checks into early-stage companies, mostly AI infrastructure and d
 
 I also maintain [ai-angels](https://github.com/conorbronsdon/ai-angels), a community-maintained list of active angel investors in AI. Every entry is publicly verified, with a last-verified date and source on each row.
 
+Some of my investments:
+
 | Featured Companies | What they do |
 |---------|-------------|
 | [Substack](https://substack.com) | The world's publishing platform |
