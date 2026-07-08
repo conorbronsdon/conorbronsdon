@@ -77,6 +77,8 @@ Pure-Mojo libraries that mirror the Python stdlib APIs developers already know, 
 
 I write $1-10K checks into early-stage companies, mostly AI infrastructure and dev tools. [More on my thesis here.](https://conorbronsdon.com/angel-investing)
 
+I also maintain [ai-angels](https://github.com/conorbronsdon/ai-angels), a community-maintained list of active angel investors in AI. Every entry is publicly verified, with a last-verified date and source on each row.
+
 | Featured Companies | What they do |
 |---------|-------------|
 | [Substack](https://substack.com) | The world's publishing platform |
