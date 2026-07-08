@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Conor 👋</h1>
 
 <p align="center">
-Host of <a href="https://chainofthought.show">Chain of Thought</a> · Consulting & Open Source Development · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
+Host of <a href="https://chainofthought.show">Chain of Thought</a> · [Consulting](https://conorbronsdon.com/consulting/) & Open Source Development · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
 <br/>
 <a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
 </p>
