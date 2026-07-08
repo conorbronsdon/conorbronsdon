@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Conor 👋</h1>
 
 <p align="center">
-Host of <a href="https://chainofthought.show">Chain of Thought</a> · Technical Ecosystem Lead at <a href="https://www.modular.com/">Modular</a> · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
+Host of <a href="https://chainofthought.show">Chain of Thought</a> · Consulting & Open Source Development · <a href="https://conorbronsdon.com/angel-investing">Angel Investor</a>
 <br/>
 <a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
 </p>
@@ -12,7 +12,7 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · Technical 
 
 ---
 
-By day, Technical Ecosystem Lead at [Modular](https://www.modular.com/), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
+Led Technical Ecosystem Lead at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
 - 🎙️ 60+ episodes of [Chain of Thought](https://chainofthought.show) shipped
 - 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
