@@ -6,10 +6,6 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · Consulting
 <a href="https://github.com/conorbronsdon"><img src="https://img.shields.io/github/followers/conorbronsdon?label=Follow&style=social" alt="Follow" /></a>
 </p>
 
-<p align="center">
-<em>The views expressed on this account are my own and have not been reviewed or approved by Modular.</em>
-</p>
-
 ---
 
 Led Technical Ecosystem Lead at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
