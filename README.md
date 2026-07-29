@@ -54,7 +54,7 @@ Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qua
 | 📋 | [podcast-benchmark](https://github.com/conorbronsdon/podcast-benchmark) | Benchmark any podcast against a peer set using only public data — catalog, cadence, transcripts, feed hygiene. No download estimates, no scraping. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/podcast-benchmark?style=social)](https://github.com/conorbronsdon/podcast-benchmark) |
 | 🧠 | [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) | The curation loop for agent memory: capture, recall, and a read-only curator that finds rot and contradictions before your agent is confidently wrong | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-memory-kit?style=social)](https://github.com/conorbronsdon/agent-memory-kit) |
 
-*These are personal / open-source projects done in my individual capacity. They are not affiliated with, authorized by, or endorsed by my employer in any way.*
+*These are independent personal projects, not affiliated with, sponsored by, or endorsed by any company. All views expressed are my own.*
 
 ### Angel portfolio
 
