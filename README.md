@@ -8,10 +8,10 @@ Host of <a href="https://chainofthought.show">Chain of Thought</a> · <a href="h
 
 ---
 
-Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems & marketing at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/Cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
+Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems & marketing at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
 - 🎙️ 65+ episodes of [Chain of Thought](https://chainofthought.show) shipped
-- 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, dev tools, and robotics
+- 💰 [Angel investor](https://conorbronsdon.com/angel-investing) in AI infrastructure, developer tools, and robotics
 - 🎲 Avid Twilight Imperium and [Age of Empires II](https://github.com/conorbronsdon/aoe2-troop-calculator) player, former chess team nerd
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/conorbronsdon/)
 
@@ -58,26 +58,16 @@ Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qua
 
 ### Angel portfolio
 
-I write $1-10K checks into early-stage companies, mostly AI infrastructure and dev tools. [More on my thesis here.](https://conorbronsdon.com/angel-investing)
+I write $1–10K checks into early-stage companies, mostly AI infrastructure, developer tools, and robotics. Fifteen checks since 2022, including Substack, Shield, Zaapi, Swytchcode, Haply Robotics, and Ansel.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/angel-checks-dark.svg">
+  <img src="assets/angel-checks-light.svg" alt="Angel checks by year - 2022: 1, 2023: 3, 2024: 0, 2025: 8, 2026: 3. 15 checks total since 2022." width="560">
+</picture>
+
+**[Full portfolio, thesis, and advisory roles →](https://conorbronsdon.com/angel-investing)**
 
 I also maintain [ai-angels](https://github.com/conorbronsdon/ai-angels), a community-maintained list of active angel investors in AI. Every entry is publicly verified, with a last-verified date and source on each row.
-
-Some of my investments:
-
-| Featured Companies | What they do |
-|---------|-------------|
-| [Substack](https://substack.com) | The world's publishing platform |
-| [Zaapi](https://www.zaapi.com) | AI customer service for e-commerce |
-| [Iris](https://www.textiris.com) | Consumer AI assistant (YC F25) |
-| [DreamForge](https://www.dreamforge.ai) | AI game creation platform |
-| [Scam.ai](https://www.scam.ai) | Deepfake detection (Skydeck Batch 20) |
-| [Swytchcode](https://www.swytchcode.com) | Execution authority for API integrations |
-| [Shield](https://www.getshield.xyz) | B2B stablecoin payments & online banking |
-| [Haply Robotics](https://www.haply.co) | Industrial robotics and haptics |
-| [Trilobio](https://www.trilo.bio) | Lab automation robotics |
-| [Stride Soles](https://www.stridesoles.com) | DTC custom orthotics via AI scanning |
-| [Rad Intel](https://www.radintel.ai) | AI marketing platform |
-| [YC Orange Fund F25](https://www.ycombinator.com/) | Diversified YC batch fund |
 
 ### How'd you start coding?
 
