@@ -34,15 +34,15 @@ Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qua
 
 Priority projects by category. [Full list with stars and forks →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
 
-#### Agent skills & context — [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#agent-skills)
+#### Agent skills & context · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#agent-skills)
 
 | | Repo | What it does | |
 |---|------|-------------|---|
-| 🛠️ | [agent-skills](https://github.com/conorbronsdon/agent-skills) | Nine production-tested agent skills (Claude Code, Codex, Cursor, OpenCode) — session memory, multi-agent code review, eval integrity, SSOT checks, drift reconciliation, worktree recovery — with a drop-in installer; the incubator skills graduate from | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-skills?style=social)](https://github.com/conorbronsdon/agent-skills) |
-| 🧩 | [claude-context-os](https://github.com/conorbronsdon/claude-context-os) | An operating system for your Claude context — versioned files, self-curating memory, /start→/end loop | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-os?style=social)](https://github.com/conorbronsdon/claude-context-os) |
+| 🛠️ | [agent-skills](https://github.com/conorbronsdon/agent-skills) | Nine production-tested agent skills for Claude Code, Codex, Cursor, and OpenCode: session memory, multi-agent code review, eval integrity, SSOT checks, drift reconciliation, and worktree recovery. Ships with a drop-in installer. It's the incubator the standalone skill repos graduate from | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-skills?style=social)](https://github.com/conorbronsdon/agent-skills) |
+| 🧩 | [claude-context-os](https://github.com/conorbronsdon/claude-context-os) | An operating system for your Claude context: versioned files, self-curating memory, /start→/end loop | [![Stars](https://img.shields.io/github/stars/conorbronsdon/claude-context-os?style=social)](https://github.com/conorbronsdon/claude-context-os) |
 | 🧠 | [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) | The curation loop for agent memory: capture, recall, and a read-only curator that finds rot and contradictions before your agent is confidently wrong | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-memory-kit?style=social)](https://github.com/conorbronsdon/agent-memory-kit) |
 
-#### MCP servers — [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mcp-servers)
+#### MCP servers · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mcp-servers)
 
 | | Repo | What it does | |
 |---|------|-------------|---|
@@ -50,7 +50,7 @@ Priority projects by category. [Full list with stars and forks →](https://cono
 | 📰 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack: posts are draft-only by design, short-form Notes publish immediately | [![Stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=social)](https://github.com/conorbronsdon/substack-mcp) |
 | 🎛️ | [Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) | MCP server for the Transistor.fm API: episodes, analytics, transcripts, and webhooks. Maintained fork of gxjansen/Transistor-MCP. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/Transistor-MCP?style=social)](https://github.com/conorbronsdon/Transistor-MCP) |
 
-#### Writing & creator tools — [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#creator-tools)
+#### Writing & creator tools · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#creator-tools)
 
 | | Repo | What it does | |
 |---|------|-------------|---|
@@ -59,7 +59,7 @@ Priority projects by category. [Full list with stars and forks →](https://cono
 
 #### Mojo libraries
 
-Eleven pure-Mojo libraries mirroring Python stdlib APIs — feeds, XML, Markdown, HTML, captions, Unicode, diff, templates, tar, Redis, URLs. Each anchored to an external ground truth: official spec suites, byte-for-byte Python parity, or real-world corpora. [The suite →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mojo-libraries)
+Eleven pure-Mojo libraries mirroring Python stdlib APIs, covering feeds, XML, Markdown, HTML, captions, Unicode, diff, templates, tar, Redis, URLs. Each anchored to an external ground truth: official spec suites, byte-for-byte Python parity, or real-world corpora. [The suite →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mojo-libraries)
 
 Also on [/builds](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme): eval-integrity, ssot-check, agent-workspace, agent-skill-builder, demo-gif-skill, podcastindex-mcp, op3-mcp, podcast-benchmark, ai-learning-resources, and the hobby projects.
 
