@@ -53,7 +53,7 @@ Priority projects by category. [Full list with stars and forks →](https://cono
 
 | Repo | What it does | |
 |------|-------------|---|
-| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 53 pattern categories, 109-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/avoid-ai-writing) |
+| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 61 pattern categories, 112-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/avoid-ai-writing) |
 | [ai-tools-for-creators](https://github.com/conorbronsdon/ai-tools-for-creators) | Curated AI skills, MCP servers, and workflow tools for creators | [![Stars](https://img.shields.io/github/stars/conorbronsdon/ai-tools-for-creators?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/ai-tools-for-creators) |
 
 #### Mojo libraries
