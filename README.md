@@ -31,7 +31,7 @@ A podcast and newsletter about AI infrastructure and the people building it. Gue
 
 ## Open projects
 
-Priority projects by category. The through-line is trust infrastructure for agents: permissions, provenance, memory hygiene, and human review. [Full list with stars and forks →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
+Priority projects by category. The through-line is trust infrastructure for agents: permissions, provenance, memory hygiene, and review matched to the stakes. [Full list with stars and forks →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
 
 #### Agent skills & context · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#agent-skills)
 
