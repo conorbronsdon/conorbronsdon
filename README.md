@@ -60,7 +60,7 @@ Priority projects by category. The through-line is trust infrastructure for agen
 
 Eleven pure-Mojo libraries mirroring Python stdlib APIs, covering feeds, XML, Markdown, HTML, captions, Unicode, diff, templates, tar, Redis, URLs. Each anchored to an external ground truth: official spec suites, byte-for-byte Python parity, or real-world corpora. [The suite →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mojo-libraries)
 
-Also on [/builds](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme): eval-integrity, ssot-check, agent-workspace, agent-skill-builder, demo-gif-skill, podcastindex-mcp, op3-mcp, podcast-benchmark, ai-learning-resources, and the hobby projects.
+Also on [/builds](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme): eval-integrity, ssot-check, agent-workspace, agent-skill-builder, demo-gif-skill, repo-audit, podcastindex-mcp, op3-mcp, gsc-mcp, yt-analytics-mcp, postlint-mcp, grokkable-output, podcast-benchmark, ai-learning-resources, and the hobby projects.
 
 *These are independent personal projects, not affiliated with, sponsored by, or endorsed by any company. All views expressed are my own.*
 
