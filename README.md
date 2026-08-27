@@ -45,7 +45,7 @@ Priority projects by category. The through-line is trust infrastructure for agen
 
 | Repo | What it does | |
 |------|-------------|---|
-| [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | Google Workspace for AI agents: Gmail, Calendar, Drive, Sheets, Docs, and Tasks as 39 curated MCP tools on the official gws CLI | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/gws-mcp-server) |
+| [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | Google Workspace for AI agents: Gmail, Calendar, Drive, Sheets, Docs, Slides, and Tasks as 44 curated MCP tools on the official gws CLI | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/gws-mcp-server) |
 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack: posts are draft-only by design, short-form Notes publish immediately | [![Stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/substack-mcp) |
 | [Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) | MCP server for the Transistor.fm API: episodes, analytics, transcripts, and webhooks. Maintained fork of gxjansen/Transistor-MCP. | |
 
@@ -53,7 +53,7 @@ Priority projects by category. The through-line is trust infrastructure for agen
 
 | Repo | What it does | |
 |------|-------------|---|
-| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 61 pattern categories, 112-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/avoid-ai-writing) |
+| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 62 pattern categories, 112-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/avoid-ai-writing) |
 | [ai-tools-for-creators](https://github.com/conorbronsdon/ai-tools-for-creators) | Curated AI skills, MCP servers, and workflow tools for creators | [![Stars](https://img.shields.io/github/stars/conorbronsdon/ai-tools-for-creators?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/ai-tools-for-creators) |
 
 #### Mojo libraries
