@@ -14,7 +14,7 @@ Host of <a href="https://chainofthought.show/?utm_source=github&utm_medium=refer
 
 Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems & marketing at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
-Now independent: 65+ episodes of [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) shipped, [open-source tools](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) for agents and creators, and 15 angel checks into AI infrastructure since 2022.
+Now independent: 65+ episodes of [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) shipped, [open-source tools](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) for agents and creators, and 16 angel checks into AI infrastructure since 2022.
 
 ## Chain of Thought
 
@@ -66,11 +66,11 @@ Also on [/builds](https://conorbronsdon.com/builds?utm_source=github&utm_medium=
 
 ## Angel portfolio
 
-I write $1–10K checks into early-stage companies, mostly AI infrastructure, developer tools, and robotics. Fifteen checks since 2022, including Substack, Shield, Zaapi, Swytchcode, Haply Robotics, and Ansel.
+I write $1–10K checks into early-stage companies, mostly AI infrastructure, developer tools, and robotics. Sixteen checks since 2022, including Substack, Shield, Zaapi, Hermetiq, Swytchcode, and Haply Robotics.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/angel-checks-dark.svg">
-  <img src="assets/angel-checks-light.svg" alt="Angel checks by year - 2022: 1, 2023: 3, 2024: 0, 2025: 8, 2026: 3. 15 checks total since 2022." width="560">
+  <img src="assets/angel-checks-light.svg" alt="Angel checks by year - 2022: 1, 2023: 3, 2024: 0, 2025: 8, 2026: 4. 16 checks total since 2022." width="560">
 </picture>
 
 **[Full portfolio, thesis, and advisory roles →](https://conorbronsdon.com/angel-investing?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)**
