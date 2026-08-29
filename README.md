@@ -5,9 +5,9 @@ Host of <a href="https://chainofthought.show/?utm_source=github&utm_medium=refer
 </p>
 
 <p align="center">
-<a href="https://github.com/conorbronsdon/avoid-ai-writing"><img alt="avoid-ai-writing stars" src="https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85%20avoid-ai-writing&labelColor=1b1712&color=0d9488" /></a>
-<a href="https://github.com/conorbronsdon/avoid-ai-writing/forks"><img alt="avoid-ai-writing forks" src="https://img.shields.io/github/forks/conorbronsdon/avoid-ai-writing?style=flat&label=forks&labelColor=1b1712&color=0d9488" /></a>
-<a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=0d9488" /></a>
+<a href="https://github.com/conorbronsdon/avoid-ai-writing"><img alt="avoid-ai-writing stars" src="https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85%20avoid-ai-writing&labelColor=1b1712&color=2233ff" /></a>
+<a href="https://github.com/conorbronsdon/avoid-ai-writing/forks"><img alt="avoid-ai-writing forks" src="https://img.shields.io/github/forks/conorbronsdon/avoid-ai-writing?style=flat&label=forks&labelColor=1b1712&color=2233ff" /></a>
+<a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=2233ff" /></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@ Now independent: 65+ episodes of [Chain of Thought](https://chainofthought.show/
 
 ## Chain of Thought
 
-[![Website](https://img.shields.io/badge/chainofthought.show-0d9488?style=flat&labelColor=1b1712)](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
+[![Website](https://img.shields.io/badge/chainofthought.show-2233ff?style=flat&labelColor=1b1712)](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
 [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-1b1712?style=flat&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/chain-of-thought/id1776879655)
 [![Spotify](https://img.shields.io/badge/Spotify-1b1712?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/4axe6uydH3PT0Fy1jemjFT)
 [![YouTube](https://img.shields.io/badge/YouTube-1b1712?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ChainOfThoughtAI)
@@ -37,24 +37,24 @@ Priority projects by category. The through-line is trust infrastructure for agen
 
 | Repo | What it does | |
 |------|-------------|---|
-| [agent-skills](https://github.com/conorbronsdon/agent-skills) | Nine production-tested agent skills for Claude Code, Codex, Cursor, and OpenCode: session memory, multi-agent code review, eval integrity, SSOT checks, drift reconciliation, and worktree recovery. Ships with a drop-in installer. It's the incubator the standalone skill repos graduate from | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-skills?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/agent-skills) |
-| [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Git-backed context and workflow for Claude Code, Codex, and Hermes. Keeps durable state in Markdown with reviewed session handoffs and lifecycle skills | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-context-os?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/agent-context-os) |
+| [agent-skills](https://github.com/conorbronsdon/agent-skills) | Nine production-tested agent skills for Claude Code, Codex, Cursor, and OpenCode: session memory, multi-agent code review, eval integrity, SSOT checks, drift reconciliation, and worktree recovery. Ships with a drop-in installer. It's the incubator the standalone skill repos graduate from | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-skills?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/agent-skills) |
+| [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Git-backed context and workflow for Claude Code, Codex, and Hermes. Keeps durable state in Markdown with reviewed session handoffs and lifecycle skills | [![Stars](https://img.shields.io/github/stars/conorbronsdon/agent-context-os?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/agent-context-os) |
 | [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) | The curation loop for agent memory: capture, recall, and a read-only curator that finds rot and contradictions before your agent is confidently wrong | |
 
 #### MCP servers · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#mcp-servers)
 
 | Repo | What it does | |
 |------|-------------|---|
-| [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | Google Workspace for AI agents: Gmail, Calendar, Drive, Sheets, Docs, Slides, and Tasks as 44 curated MCP tools on the official gws CLI | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/gws-mcp-server) |
-| [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack: posts are draft-only by design, short-form Notes publish immediately | [![Stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/substack-mcp) |
+| [gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) | Google Workspace for AI agents: Gmail, Calendar, Drive, Sheets, Docs, Slides, and Tasks as 44 curated MCP tools on the official gws CLI | [![Stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/gws-mcp-server) |
+| [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | MCP server for Substack: posts are draft-only by design, short-form Notes publish immediately | [![Stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/substack-mcp) |
 | [Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) | MCP server for the Transistor.fm API: episodes, analytics, transcripts, and webhooks. Maintained fork of gxjansen/Transistor-MCP. | |
 
 #### Writing & creator tools · [all →](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme#creator-tools)
 
 | Repo | What it does | |
 |------|-------------|---|
-| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 62 pattern categories, 112-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/avoid-ai-writing) |
-| [ai-tools-for-creators](https://github.com/conorbronsdon/ai-tools-for-creators) | Curated AI skills, MCP servers, and workflow tools for creators | [![Stars](https://img.shields.io/github/stars/conorbronsdon/ai-tools-for-creators?style=flat&label=%E2%98%85&labelColor=1b1712&color=0d9488)](https://github.com/conorbronsdon/ai-tools-for-creators) |
+| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Open-source AI writing detector & rewriter for Claude Code, Cowork, OpenClaw & Cursor. 62 pattern categories, 112-entry replacement table, two-pass rewrite, zero-dep detector engine. | [![Stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/avoid-ai-writing) |
+| [ai-tools-for-creators](https://github.com/conorbronsdon/ai-tools-for-creators) | Curated AI skills, MCP servers, and workflow tools for creators | [![Stars](https://img.shields.io/github/stars/conorbronsdon/ai-tools-for-creators?style=flat&label=%E2%98%85&labelColor=1b1712&color=2233ff)](https://github.com/conorbronsdon/ai-tools-for-creators) |
 
 #### Mojo libraries
 
@@ -87,4 +87,4 @@ Still an avid Twilight Imperium and [Age of Empires II](https://github.com/conor
 
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-1b1712?style=flat&logo=x&logoColor=white)](https://x.com/conorbronsdon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conorbronsdon-1b1712?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conorbronsdon/)
-[![Website](https://img.shields.io/badge/conorbronsdon.com-0d9488?style=flat&labelColor=1b1712)](https://conorbronsdon.com?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
+[![Website](https://img.shields.io/badge/conorbronsdon.com-2233ff?style=flat&labelColor=1b1712)](https://conorbronsdon.com?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme)
