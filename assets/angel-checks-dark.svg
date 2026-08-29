@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" width="560" height="190" role="img" aria-label="Angel checks by year - 2022: 1, 2023: 3, 2024: 0, 2025: 8, 2026: 4. 16 checks total since 2022.">
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.val{font-size:15px;font-weight:600;fill:#f5f5f4}.yr{font-size:12px;fill:#a8a29e}</style>
-<path fill="#2dd4bf" d="M44.0 156 V143.8 Q44.0 139.8 48.0 139.8 H64.0 Q68.0 139.8 68.0 143.8 V156 Z"/>
+<path fill="#93a4ff" d="M44.0 156 V143.8 Q44.0 139.8 48.0 139.8 H64.0 Q68.0 139.8 68.0 143.8 V156 Z"/>
 <text class="val" x="56.0" y="131.8" text-anchor="middle">1</text>
 <text class="yr" x="56.0" y="178" text-anchor="middle">2022</text>
-<path fill="#2dd4bf" d="M156.0 156 V111.2 Q156.0 107.2 160.0 107.2 H176.0 Q180.0 107.2 180.0 111.2 V156 Z"/>
+<path fill="#93a4ff" d="M156.0 156 V111.2 Q156.0 107.2 160.0 107.2 H176.0 Q180.0 107.2 180.0 111.2 V156 Z"/>
 <text class="val" x="168.0" y="99.2" text-anchor="middle">3</text>
 <text class="yr" x="168.0" y="178" text-anchor="middle">2023</text>
 <text class="val" x="280.0" y="148.0" text-anchor="middle">0</text>
 <text class="yr" x="280.0" y="178" text-anchor="middle">2024</text>
-<path fill="#2dd4bf" d="M380.0 156 V30.0 Q380.0 26.0 384.0 26.0 H400.0 Q404.0 26.0 404.0 30.0 V156 Z"/>
+<path fill="#93a4ff" d="M380.0 156 V30.0 Q380.0 26.0 384.0 26.0 H400.0 Q404.0 26.0 404.0 30.0 V156 Z"/>
 <text class="val" x="392.0" y="18.0" text-anchor="middle">8</text>
 <text class="yr" x="392.0" y="178" text-anchor="middle">2025</text>
-<path fill="#2dd4bf" d="M492.0 156 V95.0 Q492.0 91.0 496.0 91.0 H512.0 Q516.0 91.0 516.0 95.0 V156 Z"/>
+<path fill="#93a4ff" d="M492.0 156 V95.0 Q492.0 91.0 496.0 91.0 H512.0 Q516.0 91.0 516.0 95.0 V156 Z"/>
 <text class="val" x="504.0" y="83.0" text-anchor="middle">4</text>
 <text class="yr" x="504.0" y="178" text-anchor="middle">2026</text>
 <line x1="8" y1="156" x2="552" y2="156" stroke="#44403c" stroke-width="1"/>
