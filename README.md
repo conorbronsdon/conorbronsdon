@@ -12,7 +12,7 @@ Host of <a href="https://chainofthought.show/?utm_source=github&utm_medium=refer
 
 ---
 
-Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), working on the [Mojo](https://github.com/modular/modular) programming language and [MAX](https://www.modular.com/max) inference platform. Before that, developer ecosystems & marketing at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
+Led technical ecosystem at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), working on the [Mojo](https://github.com/modular/modular) programming language and MAX inference platform. Before that, developer ecosystems & marketing at [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)) and [LinearB](https://linearb.io/), enterprise consulting at Microsoft, and a career in political organizing before any of it.
 
 Now independent: 65+ episodes of [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) shipped, [open-source tools](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) for agents and creators, and 16 angel checks into AI infrastructure since 2022.
 
