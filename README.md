@@ -4,9 +4,7 @@ I build open-source tools for people working with AI agents: better writing, reu
 
 I also host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), a podcast about AI infrastructure and the people building it.
 
-<a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=2233ff" /></a>
-
-Follow me here for new tools, practical examples, and what I learn maintaining them.
+<a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=2233ff" /></a> Follow me here for new tools, practical examples, and what I learn maintaining them.
 
 ## Start here
 
