@@ -4,7 +4,9 @@ I build open-source tools for people working with AI agents: better writing, reu
 
 I also host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), a podcast about AI infrastructure and the people building it.
 
-**Follow me here for new tools, practical examples, and what I learn maintaining them.**
+<a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=2233ff" /></a>
+
+Follow me here for new tools, practical examples, and what I learn maintaining them.
 
 ## Start here
 
@@ -18,7 +20,7 @@ I also host [Chain of Thought](https://chainofthought.show/?utm_source=github&ut
 
 ## About me
 
-Previously built developer ecosystems at Modular, Galileo, and LinearB, and worked in enterprise consulting at Microsoft. Now independent, combining open-source development, consulting, and conversations with the people shipping AI systems.
+Previously built developer ecosystems at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)), and LinearB, and worked in enterprise consulting at Microsoft. Now independent, combining open-source development, consulting, and conversations with the people shipping AI systems.
 
 Away from that: Twilight Imperium, Age of Empires II, and a former chess nerd.
 
