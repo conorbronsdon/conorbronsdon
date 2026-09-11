@@ -13,7 +13,7 @@ I also host [Chain of Thought](https://chainofthought.show/?utm_source=github&ut
 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | Audit and rewrite common AI writing patterns with a portable agent skill and bundled detector. |
 | [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Keep project context and reviewed handoffs in Git across coding agents. See the repo for supported and experimental adapters. |
 | [substack-mcp](https://github.com/conorbronsdon/substack-mcp) | Read publication data and work on Substack drafts from an agent. Long-form posts stay drafts; publishing Notes is a separate action. |
-| [ai-angels](https://github.com/conorbronsdon/ai-angels)) | Find great angel investors for your AI & devtools startup - or add yourself to the list with a quick PR. |
+| [ai-angels](https://github.com/conorbronsdon/ai-angels) | Find great angel investors for your AI & devtools startup - or add yourself to the list with a quick PR. |
 
 [Browse all my projects](https://conorbronsdon.com/builds?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), including MCP servers, agent skills, and Mojo libraries.
 
