@@ -1,6 +1,6 @@
 # Conor Bronsdon
 
-I build open-source tools for people working with AI agents: better writing, reusable context, and integrations with the tools they already use.
+I build open-source tools for people working with AI agents: better writing, reusable context, and integrations with the tools they already use: trust infrastructure for AI agents. 
 
 I also created and host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), a podcast about AI infrastructure and the people building it.
 
