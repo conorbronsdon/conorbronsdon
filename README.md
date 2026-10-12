@@ -21,6 +21,6 @@ I also created and host [Chain of Thought](https://chainofthought.show/?utm_sour
 
 Previously built developer ecosystems at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)), and LinearB, and worked in enterprise consulting at Microsoft. Now independent, combining open-source development, consulting, and conversations with the people shipping AI systems.
 
-Away from that: Twilight Imperium, Age of Empires II, and a former chess nerd.
+Away from that: Twilight Imperium, Age of Empires II, avid dancer, and a former chess nerd.
 
 [Podcast](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [Consulting](https://conorbronsdon.com/consulting?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [Writing](https://conorbronsdon.com/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) | [X](https://x.com/conorbronsdon)
