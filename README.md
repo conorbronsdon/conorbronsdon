@@ -2,7 +2,7 @@
 
 I build open-source tools and trust infrastructure for people working with AI agents: better writing, reusable context, and integrations with the tools they already use.
 
-I also created and host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), a podcast about AI infrastructure and the people building it (you can access all our transcripts [via our MCP](https://github.com/conorbronsdon/chain-of-thought-podcast-mcp)).
+I create and host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme), a weekly podcast and [newsletter](https://newsletter.chainofthought.show/) about AI infrastructure and the people building it (you can access all our transcripts [via our MCP](https://github.com/conorbronsdon/chain-of-thought-podcast-mcp)).
 
 <a href="https://github.com/conorbronsdon?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/conorbronsdon?style=flat&label=followers&labelColor=1b1712&color=2233ff" /></a>  Follow me here for new tools, practical examples, and what I learn maintaining them.
 
@@ -19,8 +19,8 @@ I also created and host [Chain of Thought](https://chainofthought.show/?utm_sour
 
 ## About me
 
-Previously built developer ecosystems at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)), and LinearB, and worked in enterprise consulting at Microsoft. Now independent, combining open-source development, consulting, and conversations with the people shipping AI systems.
+Previously built developer ecosystems at [Modular](https://www.modular.com/) ([acquired by Qualcomm](https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular)), [Galileo](https://galileo.ai/) ([acquired by Cisco](https://blogs.cisco.com/news/cisco-announces-the-intent-to-acquire-galileo)), and LinearB. Before that worked in enterprise consulting at Microsoft and built my own business before that. Now I'm back to building: Chain of Thought as an agent-native media company, in open and source, and with startups who I consult with or advise.
 
-Away from that: Twilight Imperium, Age of Empires II, avid dancer, and a former chess nerd.
+Away from that: Twilight Imperium, Age of Empires II, avid dancer, and a former chess nerd. I live in Olympia, WA with my wife and our two cats. 
 
 [Podcast](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [Consulting](https://conorbronsdon.com/consulting?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [Writing](https://conorbronsdon.com/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme) | [LinkedIn](https://www.linkedin.com/in/conorbronsdon/) | [X](https://x.com/conorbronsdon)
