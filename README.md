@@ -25,7 +25,7 @@ The show's tooling is public too:
 
 | | Project | What it does |
 | --- | --- | --- |
-| Context & memory | [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Keep identity, projects, decisions, and session handoffs in reviewable Markdown, shared across Claude Code, Codex, and other coding agents. Backed by Git. |
+| Context & memory | [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Keep identity, projects, decisions, and session handoffs in reviewable Markdown, shared across Claude Code, Codex, and other coding agents. See the repo for supported and experimental adapters. Backed by Git. |
 | | [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) | A read-only curator that finds rot and contradictions in agent memory and proposes evidence-cited diffs you review. |
 | Check & prove | [ssot-check](https://github.com/conorbronsdon/ssot-check) | Find facts hand-copied across docs that have drifted from their one canonical home. Stdlib CLI, pre-commit hook, and GitHub Action. |
 | | [repo-audit](https://github.com/conorbronsdon/repo-audit) | For every claim that something is blocked or guaranteed, find the mechanism and grade it Enforced, Advisory, or Guidance. |
