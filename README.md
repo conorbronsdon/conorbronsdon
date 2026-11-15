@@ -16,7 +16,7 @@ Conversations with the builders reasoning through what's changing in AI infrastr
 
 The show's tooling is public too:
 
-- [chain-of-thought-podcast-mcp](https://github.com/conorbronsdon/chain-of-thought-podcast-mcp): search and cite every episode transcript from your agent. Point any MCP client at `https://mcp.chainofthought.show/mcp`. No login or API key.
+- [chain-of-thought-podcast-mcp](https://github.com/conorbronsdon/chain-of-thought-podcast-mcp): search and cite indexed episode transcripts from your agent. Point any MCP client at `https://mcp.chainofthought.show/mcp`. No login or API key.
 - [podcast-benchmark](https://github.com/conorbronsdon/podcast-benchmark): compare any podcast with its peers on cadence, transcripts, and feed hygiene, using only public data. No download estimates.
 - Podcast analytics over MCP: [op3-mcp](https://github.com/conorbronsdon/op3-mcp) (downloads, geography, app share), [apple-podcasts-mcp](https://github.com/conorbronsdon/apple-podcasts-mcp) (plays, followers, per-episode consumption), [yt-analytics-mcp](https://github.com/conorbronsdon/yt-analytics-mcp) (watch time, retention, traffic sources), [gsc-mcp](https://github.com/conorbronsdon/gsc-mcp) (search performance), and [podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) (search shows, track guest appearances, check feed health).
 - [postlint-mcp](https://github.com/conorbronsdon/postlint-mcp): check a social post against each platform's real character limits, the counting an LLM can't do by inspection.
@@ -25,7 +25,7 @@ The show's tooling is public too:
 
 | | Project | What it does |
 | --- | --- | --- |
-| Context & memory | [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Keep identity, projects, decisions, and session handoffs in reviewable Markdown, shared across Claude Code, Codex, and other coding agents. Backed by Git. |
+| Context & memory | [agent-context-os](https://github.com/conorbronsdon/agent-context-os) | Keep identity, projects, decisions, and session handoffs in reviewable Markdown, shared across Claude Code, Codex, and other coding agents. Backed by Git. See the repo for supported and experimental adapters. |
 | | [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) | A read-only curator that finds rot and contradictions in agent memory and proposes evidence-cited diffs you review. |
 | Check & prove | [ssot-check](https://github.com/conorbronsdon/ssot-check) | Find facts hand-copied across docs that have drifted from their one canonical home. Stdlib CLI, pre-commit hook, and GitHub Action. |
 | | [repo-audit](https://github.com/conorbronsdon/repo-audit) | For every claim that something is blocked or guaranteed, find the mechanism and grade it Enforced, Advisory, or Guidance. |
