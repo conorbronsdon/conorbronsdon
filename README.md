@@ -27,7 +27,7 @@ I host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_med
 
 **Guests from**
 
-<a href="https://chainofthought.show/guests/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme"><img alt="Chain of Thought guests: OpenClaw, NVIDIA, Google DeepMind, Cisco, AMD, Databricks, MongoDB, Vercel and more" src="assets/readme/guests.png" width="100%" /></a>
+<a href="https://chainofthought.show/guests/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme"><img alt="Chain of Thought guests from OpenClaw, NVIDIA, Google DeepMind, Cisco, AMD, Databricks, MongoDB, Oracle, Thomson Reuters, Slack, Vercel, Block, Intercom and 18 more" src="assets/readme/guests.png" width="100%" /></a>
 
 The badges read the show's public stats feed, so they stay current without anyone editing this page.
 
