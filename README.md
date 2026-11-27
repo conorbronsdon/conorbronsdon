@@ -21,8 +21,6 @@ I host [Chain of Thought](https://chainofthought.show/?utm_source=github&utm_med
 [![YouTube subscribers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdashboard.chainofthought.show%2Fdata.json&query=%24.youtube_subscribers&label=YouTube%20subscribers&labelColor=1b1712&color=2233ff)](https://www.youtube.com/@ChainOfThoughtAI)
 [![Newsletter subscribers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdashboard.chainofthought.show%2Fdata.json&query=%24.newsletter_subscribers&label=newsletter%20subscribers&labelColor=1b1712&color=2233ff)](https://newsletter.chainofthought.show/)
 
-The badges read the show's public stats feed, so they stay current without anyone editing this page.
-
 **Latest episode**
 
 <a href="https://chainofthought.show/podcast/86-cutting-a-1-27m-ci-bill-by-95-and-unlocking-multiplayer-ai-with-openclaw-chief-architect-v/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=profile-readme"><img alt="Latest Chain of Thought episode" src="assets/readme/latest-episode.png" width="560" /></a>
